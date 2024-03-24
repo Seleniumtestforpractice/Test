@@ -9,5 +9,6 @@ public class Student {
     String address;
     String mobNo;
     String gender;
+
     
 }
