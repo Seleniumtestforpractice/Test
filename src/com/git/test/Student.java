@@ -8,6 +8,7 @@ public class Student {
     String rollNo;
     String address;
     String mobNo;
-    String studentId;
+    String gender;
+
     
 }
