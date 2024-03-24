@@ -7,4 +7,6 @@ public class Student {
 	String name;
     String rollNo;
     String address;
+    String mobNo;
+    
 }
